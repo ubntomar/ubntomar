@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ubntomar
-- 👀 I’m interested in continue learning linux  , Mikrotik Networks Administration, and a lot in Software Development. 
-- 🌱 I’m currently learning  Full Stack Web Development ....Vue Js, PHP,  Node + Express, Mysql || Mongo Db
+- 👀 I’m interested in continue learning linux  , Mikrotik Networks Administration, and a lot in Software Development liked MEVN stack. 
+- 🌱 I’m currently learning  Full Stack Web Development ....Vue Js, PHP,  Node + Express, Mysql || Mongo Db ,MEVN stack
 - 💞️ I’m looking to colaborate on some interesting project that requiere Networking + Software implementation ...
 - 📫 How to reach me : omar.a.hernandez.d@gmail.com
 
